@@ -1,0 +1,5 @@
+mcp
+pyserial
+shapely>=2.1
+trimesh
+mapbox_earcut
